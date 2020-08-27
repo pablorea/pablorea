@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 [![Spotify](https://pablorea.vercel.app/api/spotify)](https://open.spotify.com/user/pabloleaa)
 
-https://www.youtube.com/watch?v=n6d4KHSKqGk
