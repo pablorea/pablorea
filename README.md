@@ -1,5 +1,5 @@
 ### Hi! I'm [Pablo](https://pablorea.github.io) 👋🏼                                                                                                                                                                          
-I'm a **Front End developer** based in Ciudad de Buenos Aires ☀️. I'm a coding passionate focused on **JavaScript**, specifically **Angular** & **Typescript**. Interested in design, under engineering and **OpenSource** ❤️
+I'm a **Front End developer** based in Autonomous City of Buenos Aires ☀️. I'm a coding passionate focused on **JavaScript**, specifically **Angular** & **Typescript**. Interested in design, under engineering and **OpenSource** ❤️
                                                                                                   
 <p>                                                 
   <a href="https://twitter.com/intent/follow?screen_name=pablorea_">
